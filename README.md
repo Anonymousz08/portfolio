@@ -97,9 +97,9 @@ A digital token system to reduce queues and wait times.
 
 ## 📫 Contact Me
 
-- ✉️ Email: [your_email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/amrit-anand](#)  
-- 🌐 Portfolio Website: [amrit-portfolio.netlify.app](#) *(If available)*
+- ✉️ Email: [amritanand8882@gmail.com]  
+- 💼 LinkedIn: [](#)  
+- 🌐 Portfolio Website: [https://anonymousz08.github.io/portfolio/](#) 
 
 ---
 
