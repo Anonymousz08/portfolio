@@ -99,7 +99,7 @@ A digital token system to reduce queues and wait times.
 
 - ✉️ Email: [amritanand8882@gmail.com]  
 - 💼 LinkedIn: [](#)  
-- 🌐 Portfolio Website: [https://anonymousz08.github.io/portfolio/](#) 
+- 🌐 Portfolio Website: [https://anonymousz08.github.io/portfolio/](https://anonymousz08.github.io/portfolio/) 
 
 ---
 
