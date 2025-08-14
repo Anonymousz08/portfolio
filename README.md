@@ -1,107 +1,77 @@
-# 💻 Amrit Anand – Portfolio
-
-🚀 Welcome to my Portfolio Repository!  
-I'm **Amrit Anand**, a passionate and motivated B.Tech Computer Science student from **AKTU University** (Batch: 2023–2027), currently in my 2nd year. I love building apps, games, and exploring the world of data structures, problem-solving, and innovative UI.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **Education**: B.Tech in Computer Science Engineering  
-  - University: AKTU (2023 – 2027)  
-  - 12th: Haryana Board (Science, 2022)  
-  - 10th: Haryana Board (2020)  
-- 🧠 **Interests**:  
-  - App & Game Development  
-  - DSA and Problem Solving  
-  - UI/UX Design and Tech Tools  
-- 📈 **Looking For**:  
-  - Internship or freelance opportunities in Software & App Development  
-  - Projects that challenge me to grow technically and creatively
+<h1 align="center">👋 Hi, I'm Amrit</h1>
+<h3 align="center">Full-Stack Developer | App Developer | Game Developer</h3>
+<p align="center">
+  <em>From mobile apps to full-stack web, and from web to immersive games — I build solutions that matter.</em>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
-
-**Languages**:  
-`Java` | `Python` | `C`
-
-**App Development**:  
-`Sketchware` | `Android Studio`
-
-**Web Development**:  
-`HTML` | `CSS` | `JavaScript` | `React`
-
-**Databases**:  
-`Firebase` | `Realtime Database` | `MongoDB`
-
-**Tools & Platforms**:  
-`Replit` | `Git` | `Canva`
-
-**Other Skills**:  
-UI/UX Basics | Video Editing | Game Development
+## 🧾 Summary
+🎓 3rd-year **B.Tech CSE** student at **AKTU** with a passion for **web development**, **mobile app engineering**, and **game development**.  
+💡 Skilled in creating **scalable, interactive, and visually engaging applications** with an eye for detail.  
+📈 Always exploring new technologies to expand my skill set — currently diving deeper into **Unreal Engine** and backend optimizations.
 
 ---
 
-## 🏆 Achievements & Participation
+## 🛠 Skills & Technologies
 
-- ✅ Participated in multiple college and inter-college **Hackathons**
-- 🛠️ Built several **self-initiated tech projects** to solve real-world problems
-- 🤝 Contributed to collaborative apps with creative UI/UX ideas
+### **Frontend Development**
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS, Bootstrap
+- React.js, Redux
 
----
+### **Backend Development**
+- Node.js, Express.js
+- MongoDB
+- Firebase
 
-## 📦 Featured Projects
+### **Mobile Development**
+- Android Studio
+- Sketchware
+- AIDE
 
-### 🔍 Lost & Found Portal  
-An application to report, track, and claim lost items.  
-**Tech Used**: Firebase  
-[🔗 View Project](#)
+### **Game Development**
+- Unity 3D
+- Unreal Engine
+- Max2D
 
----
+### **Programming Languages**
+- Python
+- Java
+- C Programming
 
-### 🎮 Tournaments App  
-App to manage gaming tournaments, automate rewards, and handle participants.  
-**Tech Used**: Sketchware, Firebase  
-[🔗 View Project](#)
-
----
-
-### 📄 Resume Analyzer Tool  
-A tool that analyzes resumes and offers suggestions using basic NLP.  
-**Tech Used**: Python, Streamlit  
-[🔗 View Project](#)
-
----
-
-### 💬 Anonymous Chat App  
-Chat anonymously in random chat rooms using sockets.  
-**Tech Used**: Socket.io  
-[🔗 View Project](#)
+### **Other Tools**
+- Photoshop
+- After Effects
+- Blender
 
 ---
 
-### 🤖 Career Decider  
-AI-powered tool to help students choose the right career path.  
-**Tech Used**: AI, Machine Learning  
-[🔗 View Project](#)
+## 💼 Featured Projects
+
+### [📡 ChatWave - Real-time Chat App](https://chatwave-musk.onrender.com/)
+Anonymous chat platform with real-time messaging using **MEN Stack** and **Socket.io**.
+
+### [🔍 Lost and Found Portal](https://anonymousz08.github.io/Lost-and-Found/)
+Community-driven platform to report and find lost items using **Firebase** for real-time updates.
+
+### [📸 Eikona - Social Media Platform](https://eikonaapp.onrender.com/)
+Full-stack media sharing app with **JWT authentication**, **Cloudinary image hosting**, and **secure backend**.
 
 ---
 
-### 🏷️ Digital Token System  
-A digital token system to reduce queues and wait times.  
-**Tech Used**: MERN Stack  
-[🔗 View Project](#)
+## 🎓 Education
+**Bachelor of Technology in Computer Science Engineering (B.Tech CSE)**  
+📍 Dr. A.P.J. Abdul Kalam Technical University (AKTU)  
+📅 2023 – 2027 (Currently in 3rd Year)  
+**Focus Areas:** Full-Stack Development, Game Development, Mobile App Engineering, DSA
 
 ---
 
-## 📫 Contact Me
-
-- ✉️ Email: [amritanand8882@gmail.com]  
-- 💼 LinkedIn: [](#)  
-- 🌐 Portfolio Website: [https://anonymousz08.github.io/portfolio/](https://anonymousz08.github.io/portfolio/) 
+## 📬 Contact
+- **Email:** [amritanand8882@gmail.com](mailto:amritanand8882@gmail.com)
+- **GitHub:** [Anonymousz08](https://github.com/Anonymousz08)
+- **Portfolio:** *(https://anonymousz08.github.io/portfolio/)*
+- **Phone:** +91 888284XXXX
 
 ---
-
-> *“Learning by building — one line of code at a time.”* 🚀
-
