@@ -52,8 +52,8 @@
 ### [📡 ChatWave - Real-time Chat App](https://chatwave-musk.onrender.com/)
 Anonymous chat platform with real-time messaging using **MEN Stack** and **Socket.io**.
 
-### [🔍 Lost and Found Portal](https://anonymousz08.github.io/Lost-and-Found/)
-Community-driven platform to report and find lost items using **Firebase** for real-time updates.
+### [🔍 CodeReview AI](https://codereview-ai-34re.onrender.com/)
+An AI-powered code review platform that analyzes submitted code, detects issues, and provides instant feedback. Built with responsive UI for developers.
 
 ### [📸 Eikona - Social Media Platform](https://eikonaapp.onrender.com/)
 Full-stack media sharing app with **JWT authentication**, **Cloudinary image hosting**, and **secure backend**.
